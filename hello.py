@@ -41,4 +41,4 @@ def main(image_path):
     ascii_img = convert_image_to_ascii(image_path)
     print(ascii_img)
 
-main("C:\pythonProjects\pythonProject\mona_darling.jpeg")  # <--- Input your image path here
+main("------- Enter the path of image -------")  # <--- Input your image path here
