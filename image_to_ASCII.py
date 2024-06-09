@@ -41,4 +41,4 @@ def main(image_path):
     ascii_img = convert_image_to_ascii(image_path)
     print(ascii_img)
 
-main("---------- ENTER PATH OF YOUR IMAGE----------")  # <--- Input your image path here
+main("-- ENTER PATH OF YOUR IMAGE --")  # <--- Input your image path here
